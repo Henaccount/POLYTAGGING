@@ -12,3 +12,6 @@ Prerequisites:
 - tag needs to have "MyArea" property acquired
 - command is "POLYTAGGING"
 
+<br><br>
+<img src="./PolyTagging.gif">
+
